@@ -1,0 +1,24 @@
+header {
+ display: flex;
+ background: linear-gradient(to left, #4FA926,#10A964) ;
+ align-items: center;
+ justify-content: space-between;
+ border-bottom: 1px solid black;
+
+}
+
+li {
+    display: flex;
+    margin: 1rem;
+    cursor: pointer;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.loguito{
+    width: 150px;
+    margin: 1rem;
+    
+}
